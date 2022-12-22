@@ -1,0 +1,5 @@
+# to protect this file from pushing into the github 
+# we use gitignore file 
+
+.env
+node_modules
